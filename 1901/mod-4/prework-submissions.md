@@ -64,7 +64,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Kelly Zick
 
-* [Node Server Tutorial]()
+* [Node Server Tutorial](https://github.com/misskelly/node-server)
 * [Annotated Express server file]()
 * [Promise Practice Exercises]()
 
