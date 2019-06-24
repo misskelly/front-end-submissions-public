@@ -66,7 +66,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Node Server Tutorial](https://github.com/misskelly/node-server)
 * [Annotated Express server file](https://github.com/misskelly/trapper-keeper-api/blob/annotation/annotated.js)
-* [Promise Practice Exercises]()
+* [Promise Practice Exercises](https://repl.it/@misskelly/Promises)
 
 ## Kristen Hallstrom
 
